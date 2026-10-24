@@ -1,0 +1,27 @@
+#[client]
+#toolbarMode = "minimal"
+
+#[theme]
+#base = "light"
+#primaryColor = "#1769AA"
+#backgroundColor = "#F5FAFF"
+#secondaryBackgroundColor = "#E8F4FF"
+#textColor = "#17324D"
+#font = "sans serif"
+
+#[theme.sidebar]
+#backgroundColor = "#E5F2FF"
+#secondaryBackgroundColor = "#D6EAFE"
+#textColor = "#17324D"
+
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+primaryColor = "#1769AA"
+backgroundColor = "#F6F9FF"
+secondaryBackgroundColor = "#EAF1FF"
+textColor = "#0F1F3D"
+font = "sans serif"
+baseRadius = "0.75rem"
