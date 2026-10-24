@@ -26,7 +26,7 @@ html,body,.stApp,.stApp p,.stApp span,.stApp label,.stApp li,.stApp td,.stApp th
 }
 .main .block-container{max-width:1320px;padding-top:1.8rem;padding-bottom:3.5rem}
 header[data-testid="stHeader"]{background:rgba(245,248,255,.94)}
-div[data-testid="stToolbar"]{visibility:hidden;height:0} div[data-testid="stStatusWidget"]{display:none}
+div[data-testid="stStatusWidget"]{display:none}
 h1,.stApp h1{color:var(--blue-950) !important;font-weight:800;letter-spacing:-.045em}
 h2,h3,h4,h5,h6{color:var(--ink) !important;font-weight:700;letter-spacing:-.025em}
 [data-testid="stCaptionContainer"],.stCaption,[data-testid="stCaptionContainer"] *{color:var(--muted) !important}
