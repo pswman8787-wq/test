@@ -1,0 +1,29 @@
+{
+  "username": "visual_action_test@lab.chat",
+  "conversations": {
+    "visual-action-persist-test.db": [
+      {
+        "role": "user",
+        "content": "Create a chart and a PPT."
+      },
+      {
+        "role": "assistant",
+        "content": "Narrative for test.",
+        "visual_action": {
+          "action": "both",
+          "chart_type": "pie",
+          "title": "Test Visual Report",
+          "ppt_slides": [
+            {
+              "judul": "Key insight",
+              "poin_poin": [
+                "Price leads responses",
+                "Quality also matters"
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

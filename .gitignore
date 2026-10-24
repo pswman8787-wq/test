@@ -1,8 +1,8 @@
 .venv/
 .streamlit/secrets.toml
-user/user.db
-data_project/*.db
-history_chat/
-history_foto/
+#user/user.db
+#data_project/*.db
+#history_chat/
+#history_foto/
 __pycache__/
 *.pyc
